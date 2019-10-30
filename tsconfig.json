@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "jsx": "react",
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "moduleResolution": "node",
+  },
+  "include": [
+    "src/js/*",
+    "ts-types/**/*.ts"
+  ]
+}
